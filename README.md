@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Hairedo](https://github.com/Sarveshmehta1504/Hairedo)
 
-- 💬 Ask me about **kotlin, xml, java, sql, react, html, css, python**
+- 💬 Ask me about **Kotlin, XML, java, SQL, react, HTML, CSS, python**
 
 - 📫 How to reach me **mehtasarvesh74@gmail.com**
 
