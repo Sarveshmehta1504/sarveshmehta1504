@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sarveshmehta6" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshmehta6?logo=twitter&style=for-the-badge" alt="sarveshmehta6" /></a> </p>
 
-- 🔭 I’m currently working on [Nike App](https://github.com/Sarveshmehta1504/Nike_App)
+- 🔭 I’m currently working on [Touch Of Gold](https://www.instagram.com/sarvesh.mehta.5686/)
 
 - 👯 I’m looking to collaborate on [Socienty Management App](https://github.com/Sarveshmehta1504/Swara_Group)
-
-- 🤝 I’m looking for help with [Hairedo](https://github.com/Sarveshmehta1504/Hairedo)
 
 - 💬 Ask me about **Kotlin, XML, java, SQL, react, HTML, CSS, python**
 
